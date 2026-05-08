@@ -1,3 +1,9 @@
 E:/Github Projects/the_snake/build/CMakeFiles/snake.dir
 E:/Github Projects/the_snake/build/CMakeFiles/edit_cache.dir
 E:/Github Projects/the_snake/build/CMakeFiles/rebuild_cache.dir
+E:/Github Projects/the_snake/build/SDL/CMakeFiles/sdl_headers_copy.dir
+E:/Github Projects/the_snake/build/SDL/CMakeFiles/SDL2main.dir
+E:/Github Projects/the_snake/build/SDL/CMakeFiles/SDL2-static.dir
+E:/Github Projects/the_snake/build/SDL/CMakeFiles/uninstall.dir
+E:/Github Projects/the_snake/build/SDL/CMakeFiles/edit_cache.dir
+E:/Github Projects/the_snake/build/SDL/CMakeFiles/rebuild_cache.dir

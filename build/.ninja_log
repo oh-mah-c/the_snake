@@ -1,33 +1,367 @@
 # ninja log v6
-480	793	7999142911467520	snake.exe	496644149fb3b7c6
-63	835	7999154706693321	CMakeFiles/snake.dir/game.c.obj	94ae0ea4a132d042
-68	641	7999152066239297	CMakeFiles/snake.dir/engine.c.obj	adda0447d1be0c4f
-5	303	7999142906705086	CMakeFiles/snake.dir/main.c.obj	c661747da1329d48
-70	1622	7999154870793918	build.ninja	9b0b3b2bc1f31d88
-70	1622	7999154870793918	E:/Github Projects/the_snake/build/cmake_install.cmake	9b0b3b2bc1f31d88
-70	837	7999154880743886	CMakeFiles/snake.dir/map.c.obj	51695ede6d4747a9
-840	1575	7999154888426213	snake.exe	d622a0fec46fbce0
-56	1348	7999156722812041	CMakeFiles/snake.dir/map.c.obj	51695ede6d4747a9
-1353	2102	7999156735528400	snake.exe	d622a0fec46fbce0
-34	701	7999160389461414	CMakeFiles/snake.dir/engine.c.obj	adda0447d1be0c4f
-706	2165	7999160396221363	snake.exe	d622a0fec46fbce0
-62	1099	7999173371647555	CMakeFiles/snake.dir/main.c.obj	c661747da1329d48
-50	504	7999173588511602	CMakeFiles/snake.dir/game.c.obj	94ae0ea4a132d042
-505	1182	7999173593041617	snake.exe	d622a0fec46fbce0
-43	528	7999174246808518	CMakeFiles/snake.dir/game.c.obj	94ae0ea4a132d042
-530	1145	7999174251678439	snake.exe	d622a0fec46fbce0
-79	1028	7999324254041858	CMakeFiles/snake.dir/engine.c.obj	adda0447d1be0c4f
-1030	2454	7999324263550704	snake.exe	d622a0fec46fbce0
-53	303	7999324603633929	CMakeFiles/snake.dir/engine.c.obj	adda0447d1be0c4f
-305	702	7999324606164000	snake.exe	d622a0fec46fbce0
-41	514	7999330500775000	CMakeFiles/snake.dir/main.c.obj	c661747da1329d48
-55	704	7999330500965027	CMakeFiles/snake.dir/game.c.obj	94ae0ea4a132d042
-705	1303	7999330507405040	snake.exe	d622a0fec46fbce0
-61	970	7999340002344054	CMakeFiles/snake.dir/engine.c.obj	adda0447d1be0c4f
-71	1238	7999340002484024	CMakeFiles/snake.dir/map.c.obj	51695ede6d4747a9
-64	745	7999340271734461	CMakeFiles/snake.dir/engine.c.obj	adda0447d1be0c4f
-79	778	7999340271844444	CMakeFiles/snake.dir/map.c.obj	51695ede6d4747a9
-65	1388	7999340400071144	CMakeFiles/snake.dir/engine.c.obj	adda0447d1be0c4f
-75	1501	7999340400241136	CMakeFiles/snake.dir/map.c.obj	51695ede6d4747a9
-56	597	7999349434327971	CMakeFiles/snake.dir/game.c.obj	94ae0ea4a132d042
 597	1255	7999349439738033	snake.exe	d622a0fec46fbce0
+56	597	7999349434327971	CMakeFiles/snake.dir/game.c.obj	94ae0ea4a132d042
+65	1388	7999340400071144	CMakeFiles/snake.dir/engine.c.obj	adda0447d1be0c4f
+41	514	7999330500775000	CMakeFiles/snake.dir/main.c.obj	c661747da1329d48
+70	1622	7999480652897371	build.ninja	9b0b3b2bc1f31d88
+70	1622	7999480651180382	E:/Github Projects/the_snake/build/cmake_install.cmake	9b0b3b2bc1f31d88
+75	1501	7999340400241136	CMakeFiles/snake.dir/map.c.obj	51695ede6d4747a9
+69	431	7999481288008671	SDL/include/SDL2/SDL.h	fceecdbde2d1b838
+69	431	7999481288008671	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL.h	fceecdbde2d1b838
+84	497	7999481288618684	SDL/include/SDL2/SDL_assert.h	c5951e535434bc7b
+84	497	7999481288618684	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_assert.h	c5951e535434bc7b
+202	569	7999481289348716	SDL/include/SDL2/SDL_blendmode.h	4bbee5b4063ab03b
+202	569	7999481289348716	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_blendmode.h	4bbee5b4063ab03b
+139	607	7999481288868683	SDL/include/SDL2/SDL_audio.h	ab44e0b793aa9741
+139	607	7999481288868683	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_audio.h	ab44e0b793aa9741
+108	635	7999481289718701	SDL/include/SDL2/SDL_atomic.h	47944f2189d8b058
+108	635	7999481289718701	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_atomic.h	47944f2189d8b058
+171	669	7999481289878663	SDL/include/SDL2/SDL_bits.h	874f78a4238cc4cc
+171	669	7999481289878663	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_bits.h	874f78a4238cc4cc
+515	903	7999481292368693	SDL/include/SDL2/SDL_copying.h	e1dc43ee6c424c2c
+515	903	7999481292368693	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_copying.h	e1dc43ee6c424c2c
+436	1005	7999481293518736	SDL/include/SDL2/SDL_clipboard.h	107cf5a1da05b2ef
+436	1005	7999481293518736	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_clipboard.h	107cf5a1da05b2ef
+571	1102	7999481294478699	SDL/include/SDL2/SDL_cpuinfo.h	17c58ba1516e1f00
+571	1102	7999481294478699	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_cpuinfo.h	17c58ba1516e1f00
+701	1183	7999481295168712	SDL/include/SDL2/SDL_error.h	6514a39ea577f750
+701	1183	7999481295168712	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_error.h	6514a39ea577f750
+650	1207	7999481295188695	SDL/include/SDL2/SDL_endian.h	bfae1515a8d5dd5a
+650	1207	7999481295188695	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_endian.h	bfae1515a8d5dd5a
+617	1253	7999481295618676	SDL/include/SDL2/SDL_egl.h	c353703e33ae43c8
+617	1253	7999481295618676	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_egl.h	c353703e33ae43c8
+909	1484	7999481298148707	SDL/include/SDL2/SDL_events.h	313b877c10d93bc
+909	1484	7999481298148707	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_events.h	313b877c10d93bc
+1036	1558	7999481298888676	SDL/include/SDL2/SDL_filesystem.h	60d4dcdfe47a9474
+1036	1558	7999481298888676	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_filesystem.h	60d4dcdfe47a9474
+1104	1585	7999481299158675	SDL/include/SDL2/SDL_gamecontroller.h	8f2ce09447156d3d
+1104	1585	7999481299158675	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_gamecontroller.h	8f2ce09447156d3d
+1336	1674	7999481300608722	SDL/include/SDL2/SDL_haptic.h	8facac03cb3ece99
+1336	1674	7999481300608722	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_haptic.h	8facac03cb3ece99
+1187	1702	7999481300528696	SDL/include/SDL2/SDL_gesture.h	915503457b61ff2e
+1187	1702	7999481300528696	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_gesture.h	915503457b61ff2e
+1234	1721	7999481300458681	SDL/include/SDL2/SDL_guid.h	e658e8e273a3d0b3
+1234	1721	7999481300458681	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_guid.h	e658e8e273a3d0b3
+1489	1866	7999481302308674	SDL/include/SDL2/SDL_hidapi.h	723bb8e971281964
+1489	1866	7999481302308674	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_hidapi.h	723bb8e971281964
+1593	1980	7999481303598695	SDL/include/SDL2/SDL_joystick.h	c1c64426e9d3b4c3
+1593	1980	7999481303598695	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_joystick.h	c1c64426e9d3b4c3
+1564	2033	7999481303638671	SDL/include/SDL2/SDL_hints.h	28b3bbf6dc5d9408
+1564	2033	7999481303638671	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_hints.h	28b3bbf6dc5d9408
+1741	2151	7999481304378685	SDL/include/SDL2/SDL_loadso.h	f38291906500b3c2
+1741	2151	7999481304378685	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_loadso.h	f38291906500b3c2
+1703	2200	7999481304968694	SDL/include/SDL2/SDL_keycode.h	5bfdfa5772d78064
+1703	2200	7999481304968694	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_keycode.h	5bfdfa5772d78064
+1675	2278	7999481305718695	SDL/include/SDL2/SDL_keyboard.h	cc6aa86690f7494b
+1675	2278	7999481305718695	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_keyboard.h	cc6aa86690f7494b
+2040	2398	7999481306818687	SDL/include/SDL2/SDL_main.h	7e2ece389203a6cc
+2040	2398	7999481306818687	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_main.h	7e2ece389203a6cc
+1866	2423	7999481306378732	SDL/include/SDL2/SDL_locale.h	19650c37190b68e7
+1866	2423	7999481306378732	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_locale.h	19650c37190b68e7
+2151	2520	7999481308558682	SDL/include/SDL2/SDL_messagebox.h	4d14821c76469775
+2151	2520	7999481308558682	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_messagebox.h	4d14821c76469775
+1988	2541	7999481308638697	SDL/include/SDL2/SDL_log.h	bbc392445ecccc22
+1988	2541	7999481308638697	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_log.h	bbc392445ecccc22
+2201	2640	7999481310098687	SDL/include/SDL2/SDL_metal.h	b8ee9c9584359012
+2201	2640	7999481310098687	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_metal.h	b8ee9c9584359012
+2423	2691	7999481310538705	SDL/include/SDL2/SDL_mutex.h	b4c4872b8a9f7763
+2423	2691	7999481310538705	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_mutex.h	b4c4872b8a9f7763
+2278	2709	7999481310878672	SDL/include/SDL2/SDL_misc.h	a999e9e5927e236d
+2278	2709	7999481310878672	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_misc.h	a999e9e5927e236d
+2406	2757	7999481311068693	SDL/include/SDL2/SDL_mouse.h	67b212cbd2d3f1d0
+2406	2757	7999481311068693	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_mouse.h	67b212cbd2d3f1d0
+2525	2903	7999481312008694	SDL/include/SDL2/SDL_name.h	3ec04c22d10d87ac
+2525	2903	7999481312008694	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_name.h	3ec04c22d10d87ac
+2691	2963	7999481313368674	SDL/include/SDL2/SDL_opengles.h	328be48564bb30a8
+2691	2963	7999481313368674	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_opengles.h	328be48564bb30a8
+2548	3240	7999481314668694	SDL/include/SDL2/SDL_opengl.h	41403d206aa8031
+2548	3240	7999481314668694	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_opengl.h	41403d206aa8031
+2641	3264	7999481313778746	SDL/include/SDL2/SDL_opengl_glext.h	26f0bc58cbe52e7d
+2641	3264	7999481313778746	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_opengl_glext.h	26f0bc58cbe52e7d
+2758	3311	7999481315538678	SDL/include/SDL2/SDL_opengles2_gl2.h	205a829ab335c4db
+2758	3311	7999481315538678	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_opengles2_gl2.h	205a829ab335c4db
+2709	3348	7999481316998684	SDL/include/SDL2/SDL_opengles2.h	714fcd4bc46a1a35
+2709	3348	7999481316998684	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_opengles2.h	714fcd4bc46a1a35
+2903	3416	7999481317688679	SDL/include/SDL2/SDL_opengles2_gl2ext.h	481ab5912ab40710
+2903	3416	7999481317688679	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_opengles2_gl2ext.h	481ab5912ab40710
+2963	3556	7999481319488676	SDL/include/SDL2/SDL_opengles2_gl2platform.h	bde5170eca6c897a
+2963	3556	7999481319488676	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_opengles2_gl2platform.h	bde5170eca6c897a
+3246	3685	7999481320228689	SDL/include/SDL2/SDL_opengles2_khrplatform.h	233e4fb4c1415d8c
+3246	3685	7999481320228689	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_opengles2_khrplatform.h	233e4fb4c1415d8c
+3284	3745	7999481320978678	SDL/include/SDL2/SDL_pixels.h	d5be12e3190ffe00
+3284	3745	7999481320978678	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_pixels.h	d5be12e3190ffe00
+3368	3870	7999481321138706	SDL/include/SDL2/SDL_power.h	f13369498de4ed62
+3368	3870	7999481321138706	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_power.h	f13369498de4ed62
+3323	3893	7999481321858703	SDL/include/SDL2/SDL_platform.h	f6bdf75ded7db9ad
+3323	3893	7999481321858703	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_platform.h	f6bdf75ded7db9ad
+3419	3927	7999481322818684	SDL/include/SDL2/SDL_quit.h	b32cea05d14176e4
+3419	3927	7999481322818684	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_quit.h	b32cea05d14176e4
+3558	3997	7999481323358688	SDL/include/SDL2/SDL_rect.h	e4da780d5e6605bf
+3558	3997	7999481323358688	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_rect.h	e4da780d5e6605bf
+3908	4256	7999481326618713	SDL/include/SDL2/SDL_sensor.h	8bd23b740d05a1e0
+3908	4256	7999481326618713	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_sensor.h	8bd23b740d05a1e0
+3692	4281	7999481326218670	SDL/include/SDL2/SDL_render.h	b2c5bc04653519d
+3692	4281	7999481326218670	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_render.h	b2c5bc04653519d
+3756	4311	7999481326508700	SDL/include/SDL2/SDL_rwops.h	fe68091f8dbf6edb
+3756	4311	7999481326508700	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_rwops.h	fe68091f8dbf6edb
+3871	4343	7999481327248678	SDL/include/SDL2/SDL_scancode.h	db56d8699d2faa44
+3871	4343	7999481327248678	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_scancode.h	db56d8699d2faa44
+4009	4416	7999481327538686	SDL/include/SDL2/SDL_stdinc.h	6257f89efa54721e
+4009	4416	7999481327538686	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_stdinc.h	6257f89efa54721e
+3933	4488	7999481328188694	SDL/include/SDL2/SDL_shape.h	b754a68ef4bbc83c
+3933	4488	7999481328188694	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_shape.h	b754a68ef4bbc83c
+4265	4695	7999481330868689	SDL/include/SDL2/SDL_surface.h	de56d787544ba3c4
+4265	4695	7999481330868689	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_surface.h	de56d787544ba3c4
+4327	4712	7999481330868689	SDL/include/SDL2/SDL_syswm.h	c31c324149b4b088
+4327	4712	7999481330868689	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_syswm.h	c31c324149b4b088
+4364	4730	7999481331158678	SDL/include/SDL2/SDL_test.h	3d7c8c15f6e2ef09
+4364	4730	7999481331158678	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test.h	3d7c8c15f6e2ef09
+4282	4750	7999481331178674	SDL/include/SDL2/SDL_system.h	fbaed3e5834767ce
+4282	4750	7999481331178674	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_system.h	fbaed3e5834767ce
+4426	4936	7999481331878676	SDL/include/SDL2/SDL_test_assert.h	10baae1c11dabe53
+4426	4936	7999481331878676	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_assert.h	10baae1c11dabe53
+4489	4955	7999481332908708	SDL/include/SDL2/SDL_test_common.h	679fb0ca746a0ae8
+4489	4955	7999481332908708	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_common.h	679fb0ca746a0ae8
+4750	5096	7999481334438698	SDL/include/SDL2/SDL_test_fuzzer.h	809dfb200c1566d2
+4750	5096	7999481334438698	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_fuzzer.h	809dfb200c1566d2
+4712	5174	7999481335178681	SDL/include/SDL2/SDL_test_crc32.h	95771189c1364248
+4712	5174	7999481335178681	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_crc32.h	95771189c1364248
+4731	5198	7999481335428682	SDL/include/SDL2/SDL_test_font.h	eec018fef4fb114f
+4731	5198	7999481335428682	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_font.h	eec018fef4fb114f
+4695	5223	7999481334968705	SDL/include/SDL2/SDL_test_compare.h	5241537dd5e3da71
+4695	5223	7999481334968705	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_compare.h	5241537dd5e3da71
+4936	5551	7999481338588693	SDL/include/SDL2/SDL_test_harness.h	29c4a4a408f18713
+4936	5551	7999481338588693	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_harness.h	29c4a4a408f18713
+4956	5609	7999481338078727	SDL/include/SDL2/SDL_test_images.h	9b3fcc06e4c70362
+4956	5609	7999481338078727	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_images.h	9b3fcc06e4c70362
+5097	5742	7999481341248688	SDL/include/SDL2/SDL_test_log.h	16f6cf1631a02fa4
+5097	5742	7999481341248688	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_log.h	16f6cf1631a02fa4
+5205	5789	7999481341678694	SDL/include/SDL2/SDL_test_memory.h	66540a32205fa564
+5205	5789	7999481341678694	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_memory.h	66540a32205fa564
+5242	5934	7999481342498671	SDL/include/SDL2/SDL_test_random.h	b6370b7de6eebdf7
+5242	5934	7999481342498671	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_random.h	b6370b7de6eebdf7
+5791	6123	7999481345338698	SDL/include/SDL2/SDL_types.h	5f9dc9469146556b
+5791	6123	7999481345338698	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_types.h	5f9dc9469146556b
+5176	6155	7999481345438737	SDL/include/SDL2/SDL_test_md5.h	b0e03571831f1aa3
+5176	6155	7999481345438737	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_test_md5.h	b0e03571831f1aa3
+5648	6192	7999481345588688	SDL/include/SDL2/SDL_timer.h	f79c9633c08b900b
+5648	6192	7999481345588688	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_timer.h	f79c9633c08b900b
+5587	6222	7999481345698680	SDL/include/SDL2/SDL_thread.h	f24fa648cc1e3d78
+5587	6222	7999481345698680	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_thread.h	f24fa648cc1e3d78
+5756	6241	7999481345968688	SDL/include/SDL2/SDL_touch.h	8e9fb906fb24a63d
+5756	6241	7999481345968688	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_touch.h	8e9fb906fb24a63d
+6136	6568	7999481348758721	SDL/include/SDL2/SDL_video.h	f80dcd5109dec907
+6136	6568	7999481348758721	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_video.h	f80dcd5109dec907
+6197	6583	7999481349108681	SDL/include/SDL2/begin_code.h	a4be803ffc68ab09
+6197	6583	7999481349108681	E:/Github Projects/the_snake/build/SDL/include/SDL2/begin_code.h	a4be803ffc68ab09
+6167	6597	7999481349378718	SDL/include/SDL2/SDL_vulkan.h	a57c1cda5693e0da
+6167	6597	7999481349378718	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_vulkan.h	a57c1cda5693e0da
+6223	6683	7999481350348731	SDL/include/SDL2/close_code.h	d47d6b3fd484cd73
+6223	6683	7999481350348731	E:/Github Projects/the_snake/build/SDL/include/SDL2/close_code.h	d47d6b3fd484cd73
+5965	6697	7999481350678682	SDL/include/SDL2/SDL_version.h	351137195ce87de7
+5965	6697	7999481350678682	E:/Github Projects/the_snake/build/SDL/include/SDL2/SDL_version.h	351137195ce87de7
+7152	11015	7999481356158716	SDL/CMakeFiles/SDL2-static.dir/src/SDL_error.c.obj	a5fd4b79ba6db981
+7185	11055	7999481357898687	SDL/CMakeFiles/SDL2-static.dir/src/SDL_guid.c.obj	9c464b41e3855ae3
+7334	12319	7999481359168683	SDL/CMakeFiles/SDL2-static.dir/src/SDL_hints.c.obj	5918c0b65bb80f8a
+12482	18268	7999481410649686	SDL/CMakeFiles/SDL2-static.dir/src/SDL_utils.c.obj	27fd54b0ad00219e
+7144	18955	7999481356068754	SDL/CMakeFiles/SDL2-static.dir/src/SDL_dataqueue.c.obj	d4961fc49d94a079
+7108	20337	7999481355978720	SDL/CMakeFiles/SDL2-static.dir/src/SDL_assert.c.obj	a753200af66c3022
+11044	21531	7999481395069708	SDL/CMakeFiles/SDL2-static.dir/src/SDL_list.c.obj	2043dd3c4b3be7b6
+6706	21985	7999481351848759	SDL/CMakeFiles/SDL2-static.dir/src/SDL.c.obj	7a204815ba9597db
+11082	24573	7999481395449681	SDL/CMakeFiles/SDL2-static.dir/src/SDL_log.c.obj	78a59cad5a9850a1
+18332	25230	7999481470509723	SDL/CMakeFiles/SDL2-static.dir/src/atomic/SDL_atomic.c.obj	3d33bf0a77e7cdcd
+22007	26802	7999481505219704	SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiodev.c.obj	f59eb9ba336943fd
+19009	36286	7999481476189687	SDL/CMakeFiles/SDL2-static.dir/src/atomic/SDL_spinlock.c.obj	6ffbf23ca0383341
+20380	37884	7999481491359709	SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_audio.c.obj	dca2ae9e76ea3d42
+21553	39332	7999481500159675	SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiocvt.c.obj	9438a46dff684ee8
+27226	41142	7999481562909680	SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_wave.c.obj	d91cf784b44c063
+25303	44626	7999481537709709	SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_mixer.c.obj	7ba3b5e1494b02f2
+24581	45784	7999481533329671	SDL/CMakeFiles/SDL2-static.dir/src/audio/SDL_audiotypecvt.c.obj	2f18a32f62915b20
+36448	53989	7999481653739695	SDL/CMakeFiles/SDL2-static.dir/src/cpuinfo/SDL_cpuinfo.c.obj	612eb925b2364b7
+39347	55645	7999481680079697	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_clipboardevents.c.obj	d9d0e482540f9174
+41199	58845	7999481696619706	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_displayevents.c.obj	1e2bff0fd00a7e3d
+44641	62143	7999481731719696	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_dropevents.c.obj	9a3156c683da09f3
+59133	65132	7999481879632822	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_keysym_to_scancode.c.obj	395718703df5d2e
+45830	65541	7999481745769681	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_events.c.obj	bd2c76d6b942439c
+65732	69189	7999481943182824	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_scancode_tables.c.obj	3312e0e0f843b6ca
+54030	70857	7999481827642822	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_gesture.c.obj	f0ae8723bac80644
+55733	71821	7999481845172872	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_keyboard.c.obj	4e77a27234311253
+71864	75202	7999482005742876	SDL/CMakeFiles/SDL2-static.dir/src/events/imKStoUCS.c.obj	424f265e76e7926
+38364	76164	7999481671989755	SDL/CMakeFiles/SDL2-static.dir/src/dynapi/SDL_dynapi.c.obj	b0c91b8cd8bcffee
+62149	76798	7999481906653012	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_mouse.c.obj	6e533d83869641d1
+65349	78668	7999481939292817	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_quit.c.obj	bfe10bfe3a8acc96
+76194	80960	7999482046572820	SDL/CMakeFiles/SDL2-static.dir/src/haptic/SDL_haptic.c.obj	6981e46931ae40e2
+69239	84094	7999481979832800	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_touch.c.obj	1b36306e7b911140
+70921	84432	7999481995452796	SDL/CMakeFiles/SDL2-static.dir/src/events/SDL_windowevents.c.obj	39c6d8b5f5d270f4
+84434	88048	7999482129222809	SDL/CMakeFiles/SDL2-static.dir/src/joystick/controller_type.c.obj	8f7ccaa6405a4ec2
+75273	88578	7999482039182804	SDL/CMakeFiles/SDL2-static.dir/src/file/SDL_rwops.c.obj	ea67a2945a1f1551
+88053	91116	7999482165532833	SDL/CMakeFiles/SDL2-static.dir/src/libm/e_atan2.c.obj	e7cc4ea7164d0d2d
+76899	91314	7999482053692834	SDL/CMakeFiles/SDL2-static.dir/src/hidapi/SDL_hidapi.c.obj	47f4af6fea60676
+88601	91573	7999482171752878	SDL/CMakeFiles/SDL2-static.dir/src/libm/e_exp.c.obj	c9aa101e60744b9
+78777	93413	7999482076092811	SDL/CMakeFiles/SDL2-static.dir/src/joystick/SDL_gamecontroller.c.obj	a2e268dc99ed23a
+91119	93896	7999482196472824	SDL/CMakeFiles/SDL2-static.dir/src/libm/e_fmod.c.obj	edd30549e5cbe93e
+91362	94012	7999482199582835	SDL/CMakeFiles/SDL2-static.dir/src/libm/e_log.c.obj	591a34fb2698c67
+91620	94140	7999482201052810	SDL/CMakeFiles/SDL2-static.dir/src/libm/e_log10.c.obj	b1a5fe1495f299a
+84163	94670	7999482128462820	SDL/CMakeFiles/SDL2-static.dir/src/joystick/SDL_steam_virtual_gamepad.c.obj	9dcd3bea2b04defd
+81321	95903	7999482097832809	SDL/CMakeFiles/SDL2-static.dir/src/joystick/SDL_joystick.c.obj	48ca961af09b8fdc
+94140	96508	7999482226032803	SDL/CMakeFiles/SDL2-static.dir/src/libm/k_cos.c.obj	93bd96fb28337c8d
+93973	96687	7999482224512807	SDL/CMakeFiles/SDL2-static.dir/src/libm/e_rem_pio2.c.obj	5f43dcc07d2f0128
+93421	96718	7999482220152822	SDL/CMakeFiles/SDL2-static.dir/src/libm/e_pow.c.obj	f6ebaa15e0c8aebb
+94049	96929	7999482225122806	SDL/CMakeFiles/SDL2-static.dir/src/libm/e_sqrt.c.obj	17e1ec3a0a14e443
+94672	97278	7999482231342889	SDL/CMakeFiles/SDL2-static.dir/src/libm/k_rem_pio2.c.obj	f440c845d0856aa9
+95997	98540	7999482246552826	SDL/CMakeFiles/SDL2-static.dir/src/libm/k_sin.c.obj	5e83a38b67762d67
+96707	98853	7999482251702802	SDL/CMakeFiles/SDL2-static.dir/src/libm/s_atan.c.obj	13cc9cc61dffe794
+96545	99122	7999482251142800	SDL/CMakeFiles/SDL2-static.dir/src/libm/k_tan.c.obj	39897f704167bacd
+96820	99182	7999482253522807	SDL/CMakeFiles/SDL2-static.dir/src/libm/s_copysign.c.obj	718aea91c710cf1d
+96942	99492	7999482254052820	SDL/CMakeFiles/SDL2-static.dir/src/libm/s_cos.c.obj	eca78aa1f97d3c3a
+97306	99572	7999482257872805	SDL/CMakeFiles/SDL2-static.dir/src/libm/s_fabs.c.obj	d2d051b0d6d47210
+98574	101104	7999482270562790	SDL/CMakeFiles/SDL2-static.dir/src/libm/s_floor.c.obj	44edac9ce9be65ba
+98858	101443	7999482273382819	SDL/CMakeFiles/SDL2-static.dir/src/libm/s_scalbn.c.obj	12903f8e70052d0f
+99154	101891	7999482276332825	SDL/CMakeFiles/SDL2-static.dir/src/libm/s_sin.c.obj	6cd5c0e8c9cafa64
+99548	102016	7999482280102839	SDL/CMakeFiles/SDL2-static.dir/src/locale/SDL_locale.c.obj	3ea50db6e4b5ac17
+99189	102428	7999482278062813	SDL/CMakeFiles/SDL2-static.dir/src/libm/s_tan.c.obj	d76392f4f138b37c
+99611	102667	7999482280882793	SDL/CMakeFiles/SDL2-static.dir/src/misc/SDL_url.c.obj	32b7c0a583d91cf2
+101457	104254	7999482299502802	SDL/CMakeFiles/SDL2-static.dir/src/render/SDL_d3dmath.c.obj	621f0ddb62aa73f8
+101141	104731	7999482296042806	SDL/CMakeFiles/SDL2-static.dir/src/power/SDL_power.c.obj	b2d33613bddfeb09
+102090	110728	7999482307822806	SDL/CMakeFiles/SDL2-static.dir/src/render/SDL_yuv_sw.c.obj	3c655a776768a67c
+101932	112720	7999482304062816	SDL/CMakeFiles/SDL2-static.dir/src/render/SDL_render.c.obj	2a78a4ed9bf1dc03
+102675	114973	7999482311442812	SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d/SDL_shaders_d3d.c.obj	eeecf7d35ef111d1
+102571	118353	7999482311162847	SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d/SDL_render_d3d.c.obj	934c4dfc13fc7e90
+104842	120249	7999482335502788	SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d11/SDL_shaders_d3d11.c.obj	8e1089d98908ca71
+104441	121675	7999482330882829	SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d11/SDL_render_d3d11.c.obj	9c8feb589fa3a8d6
+120336	122895	7999482489612789	SDL/CMakeFiles/SDL2-static.dir/src/render/opengles/SDL_render_gles.c.obj	93dcdb6ffd6c466f
+122930	126256	7999482514162987	SDL/CMakeFiles/SDL2-static.dir/src/render/opengles2/SDL_shaders_gles2.c.obj	62b63c7d9ceb1147
+112767	127671	7999482414862875	SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d12/SDL_shaders_d3d12.c.obj	d52849755a2735c4
+110775	128083	7999482394202781	SDL/CMakeFiles/SDL2-static.dir/src/render/direct3d12/SDL_render_d3d12.c.obj	cf4117c4446098b7
+115000	128244	7999482436022927	SDL/CMakeFiles/SDL2-static.dir/src/render/opengl/SDL_render_gl.c.obj	3596e8d00089ee8c
+126322	129284	7999482547852833	SDL/CMakeFiles/SDL2-static.dir/src/render/ps2/SDL_render_ps2.c.obj	aea48685c55ebc62
+118355	129713	7999482468182798	SDL/CMakeFiles/SDL2-static.dir/src/render/opengl/SDL_shaders_gl.c.obj	ea6e79d20a552fd6
+127697	130113	7999482561782819	SDL/CMakeFiles/SDL2-static.dir/src/render/psp/SDL_render_psp.c.obj	c0ed5076463ed600
+121677	134131	7999482503202812	SDL/CMakeFiles/SDL2-static.dir/src/render/opengles2/SDL_render_gles2.c.obj	b44b5618cc17fb78
+128129	137638	7999482565922798	SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendfillrect.c.obj	7b8787a7e23f293e
+129523	137841	7999482581112839	SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendpoint.c.obj	2ebad484b3e07218
+129921	138214	7999482585072805	SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_drawline.c.obj	d7681a0993155405
+130305	138253	7999482589412875	SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_drawpoint.c.obj	9118fc7851f26d8
+128244	138577	7999482567072827	SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_blendline.c.obj	558734517bf5c2e4
+138254	140808	7999482667162796	SDL/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm_memory.c.obj	23471110236c5986
+138241	140970	7999482667052818	SDL/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm.c.obj	6fc15ab42b2d4a98
+138594	141328	7999482670732814	SDL/CMakeFiles/SDL2-static.dir/src/render/vitagxm/SDL_render_vita_gxm_tools.c.obj	e3e3357e45c45bf3
+140985	143285	7999482694802809	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_crc16.c.obj	e4f7131a27cb6f7f
+134139	143646	7999482626022804	SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_render_sw.c.obj	729fe29e2db617c7
+141333	144050	7999482698332803	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_crc32.c.obj	7dd423b9a679e123
+137859	146894	7999482663372797	SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_triangle.c.obj	d48113c9c7b455bb
+143669	147198	7999482721312790	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_iconv.c.obj	65234e542b1e4b93
+144067	147221	7999482725432810	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_malloc.c.obj	19c8193d218a3811
+137651	148630	7999482662572809	SDL/CMakeFiles/SDL2-static.dir/src/render/software/SDL_rotate.c.obj	ed5dbade0a7fc810
+147076	149463	7999482756252798	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_mslibc.c.obj	d7445442917fabbb
+147202	149813	7999482756732808	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_qsort.c.obj	3052d3e50a0135cb
+147308	150655	7999482759132806	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_stdlib.c.obj	8ac4c420d003859d
+148680	151921	7999482771432795	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_string.c.obj	4df9a4f2642f8213
+149481	152218	7999482779782797	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_strtokr.c.obj	5a0fcb5a6938bcca
+140841	152876	7999482694002806	SDL/CMakeFiles/SDL2-static.dir/src/sensor/SDL_sensor.c.obj	70a4068bc827d793
+143476	153665	7999482720472823	SDL/CMakeFiles/SDL2-static.dir/src/stdlib/SDL_getenv.c.obj	aaea85692002e07b
+149830	159972	7999482782942812	SDL/CMakeFiles/SDL2-static.dir/src/thread/SDL_thread.c.obj	c4d5d4c33a5a011d
+150706	160627	7999482791742876	SDL/CMakeFiles/SDL2-static.dir/src/timer/SDL_timer.c.obj	9819ec0b94eebcba
+152949	162178	7999482815382807	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_0.c.obj	a7ddfbb6ae3f02bf
+152242	163676	7999482808282858	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit.c.obj	fbc55eb04be35262
+151952	163957	7999482806112826	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_RLEaccel.c.obj	633d3aed9308d15a
+153710	166292	7999482823482839	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_1.c.obj	398ce04cd39fd422
+159974	170869	7999482885572815	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_A.c.obj	a1c2dbac6931a24a
+160648	171103	7999482891112823	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_N.c.obj	210ec710d900368b
+163716	173183	7999482923382823	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_copy.c.obj	781dd8f8e0398ced
+164042	174400	7999482926032978	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_slow.c.obj	5d38b1cfc38e8ece
+162283	176462	7999482909412826	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_blit_auto.c.obj	8a41b6e4be89740
+166317	176684	7999482948044392	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_bmp.c.obj	7a972b66404918bf
+176483	180051	7999483049845134	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_rect.c.obj	80a1f34d53372f09
+173217	183388	7999483016815150	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_fillrect.c.obj	c4c19cf5757e5f33
+170908	184462	7999482993712829	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_clipboard.c.obj	415d07af3c37babe
+171231	186433	7999482998382815	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_egl.c.obj	1c7d478149c0ba80
+174459	187017	7999483029225125	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_pixels.c.obj	ff957152f78a00cc
+180082	189731	7999483087434009	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_stretch.c.obj	a8a3bdf4442c9aa6
+176704	189810	7999483053175738	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_shape.c.obj	a18c455550a65b7b
+183430	195876	7999483119036859	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_surface.c.obj	9af988e8e2416a56
+189787	197543	7999483182531681	SDL/CMakeFiles/SDL2-static.dir/src/video/yuv2rgb/yuv_rgb_lsx.c.obj	470f7bfc54eb8b82
+187024	197960	7999483156421657	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_yuv.c.obj	6027330092579b3d
+186459	198010	7999483149227638	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_vulkan_utils.c.obj	f0d81928bfac2d03
+184481	200543	7999483129566887	SDL/CMakeFiles/SDL2-static.dir/src/video/SDL_video.c.obj	a2d35b8aad9b833b
+195893	200644	7999483244912101	SDL/CMakeFiles/SDL2-static.dir/src/video/yuv2rgb/yuv_rgb_std.c.obj	13e0528c2685e8cf
+197773	200956	7999483263718249	SDL/CMakeFiles/SDL2-static.dir/src/audio/dummy/SDL_dummyaudio.c.obj	475f2ab9dfd6087f
+198011	201375	7999483264738202	SDL/CMakeFiles/SDL2-static.dir/src/joystick/virtual/SDL_virtualjoystick.c.obj	a639feba0eecb679
+197991	201656	7999483264568203	SDL/CMakeFiles/SDL2-static.dir/src/audio/disk/SDL_diskaudio.c.obj	afcbca04281a0d3f
+189889	206574	7999483185521691	SDL/CMakeFiles/SDL2-static.dir/src/video/yuv2rgb/yuv_rgb_sse.c.obj	980c5e4bfd2c2dea
+200645	211977	7999483291079317	SDL/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullframebuffer.c.obj	ba925929dbc4387d
+200556	212113	7999483290189325	SDL/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullevents.c.obj	16883b99db29a18f
+200961	212903	7999483294249348	SDL/CMakeFiles/SDL2-static.dir/src/video/dummy/SDL_nullvideo.c.obj	1a6776922f26655f
+201415	213545	7999483298780521	SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenevents.c.obj	f87653027d2c3313
+201829	213783	7999483306062129	SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenframebuffer.c.obj	43e78fb7412fcd24
+206602	219170	7999483350808252	SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenopengles.c.obj	b4e7f886ace11eda
+212041	223683	7999483405374929	SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenvideo.c.obj	bdf43181c7d52101
+212127	223994	7999483406215008	SDL/CMakeFiles/SDL2-static.dir/src/video/offscreen/SDL_offscreenwindow.c.obj	be3c3d176a1b0862
+212960	224569	7999483414224898	SDL/CMakeFiles/SDL2-static.dir/src/core/windows/SDL_hid.c.obj	fe8a916ca54c1ab
+213567	228939	7999483420704891	SDL/CMakeFiles/SDL2-static.dir/src/core/windows/SDL_immdevice.c.obj	1119ba255f981861
+213819	229099	7999483424164889	SDL/CMakeFiles/SDL2-static.dir/src/core/windows/SDL_windows.c.obj	7b622ed68d35bfed
+219205	230836	7999483478994923	SDL/CMakeFiles/SDL2-static.dir/src/core/windows/SDL_xinput.c.obj	23df162877571a0d
+223831	234290	7999483524198673	SDL/CMakeFiles/SDL2-static.dir/src/misc/windows/SDL_sysurl.c.obj	b4a1a9e653dd3461
+224229	241300	7999483529628666	SDL/CMakeFiles/SDL2-static.dir/src/audio/winmm/SDL_winmm.c.obj	136f63be43ab29b0
+224575	241320	7999483530378681	SDL/CMakeFiles/SDL2-static.dir/src/audio/directsound/SDL_directsound.c.obj	777086637a53dc19
+228958	241337	7999483574523967	SDL/CMakeFiles/SDL2-static.dir/src/audio/wasapi/SDL_wasapi.c.obj	b835a7e99e3323cd
+229273	241352	7999483578973926	SDL/CMakeFiles/SDL2-static.dir/src/audio/wasapi/SDL_wasapi_win32.c.obj	fb2f0f584d670d3a
+230955	243153	7999483595293976	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsclipboard.c.obj	38226c5521112199
+241306	256732	7999483697693748	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsframebuffer.c.obj	427f0f17867f0242
+241353	256789	7999483698153605	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsmodes.c.obj	4a8ed9e8a6b63c59
+241321	257886	7999483697833587	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowskeyboard.c.obj	fd7d9cfb7a921d51
+241338	258288	7999483698013596	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsmessagebox.c.obj	7bf2346f10ff8469
+234337	259228	7999483631596261	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsevents.c.obj	50e2ce313293249a
+243516	261511	7999483722957249	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsmouse.c.obj	9bcafb9a6133a6ec
+256852	274468	7999483853147703	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsopengles.c.obj	a5e2dedce67cb292
+257997	275999	7999483864602909	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsshape.c.obj	769db30e248bcae
+256765	276665	7999483852357730	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsopengl.c.obj	35150ed4365ca73f
+259231	278142	7999483876946478	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsvulkan.c.obj	48ccfd8aac9ff36d
+258432	278747	7999483870564924	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowsvideo.c.obj	22dbef830bc9babf
+274755	279710	7999484035964709	SDL/CMakeFiles/SDL2-static.dir/src/thread/generic/SDL_syscond.c.obj	81afa9243a7f9e94
+261524	282013	7999483900423536	SDL/CMakeFiles/SDL2-static.dir/src/video/windows/SDL_windowswindow.c.obj	a8bba0b33e7eefcd
+276345	288555	7999484050553565	SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_syscond_cv.c.obj	a192360142b6820f
+276699	288776	7999484052764185	SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_sysmutex.c.obj	d8f8b46d399ee9c5
+278382	290513	7999484071164719	SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_syssem.c.obj	460ecf7da1673838
+278767	290813	7999484072294626	SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_systhread.c.obj	ecf56e3572323da6
+279891	292948	7999484087214662	SDL/CMakeFiles/SDL2-static.dir/src/thread/windows/SDL_systls.c.obj	452644c9caa74fb8
+282156	298354	7999484110964640	SDL/CMakeFiles/SDL2-static.dir/src/sensor/windows/SDL_windowssensor.c.obj	abd5df1bb40474ba
+288682	298840	7999484171918275	SDL/CMakeFiles/SDL2-static.dir/src/power/windows/SDL_syspower.c.obj	b24093ad16ff991f
+288796	299164	7999484172768308	SDL/CMakeFiles/SDL2-static.dir/src/locale/windows/SDL_syslocale.c.obj	e67552433cc88f76
+298360	301685	7999484268388219	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_8bitdo.c.obj	4b19ff96b08228c
+290841	301982	7999484193037663	SDL/CMakeFiles/SDL2-static.dir/src/timer/windows/SDL_systimer.c.obj	83c083fec51695a1
+298877	302278	7999484275509580	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_combined.c.obj	4f12b71136708ef4
+299235	302830	7999484278752055	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_gamecube.c.obj	85da175e5c36662f
+292957	303157	7999484214608160	SDL/CMakeFiles/SDL2-static.dir/src/loadso/windows/SDL_sysloadso.c.obj	127acedcdf9e9aa3
+301776	307080	7999484303853119	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_luna.c.obj	1d6f2d2b8757e8c9
+302293	308111	7999484307893093	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps4.c.obj	85505afd48536e83
+302112	308746	7999484307053098	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps3.c.obj	ca603c77568b7b21
+302860	309856	7999484313233111	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_ps5.c.obj	e9582d1cbc2887c5
+290554	311499	7999484192087711	SDL/CMakeFiles/SDL2-static.dir/src/filesystem/windows/SDL_sysfilesystem.c.obj	1cedad98fee43ad0
+307145	314949	7999484361723101	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_shield.c.obj	315938913034d25c
+308360	316902	7999484370243102	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_stadia.c.obj	e3ff53ed5f97e07d
+309962	317635	7999484384243104	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_steamdeck.c.obj	18b2edeeb2d0626c
+309096	318209	7999484379883113	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_steam.c.obj	e6b4895339535a32
+311513	319890	7999484399784558	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_switch.c.obj	7f9b50593ebba3bc
+303189	323558	7999484318353088	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_rumble.c.obj	5ee51e01fc82a073
+315025	324644	7999484438174072	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_wii.c.obj	3c0019d2bc2eeb42
+316965	325064	7999484458223568	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xbox360.c.obj	2aa5f205ee3a5029
+318032	325105	7999484466323559	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xbox360w.c.obj	6a49f4837453cbec
+318219	326209	7999484466813555	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapi_xboxone.c.obj	1a2d2376c57ac15b
+320395	343672	7999484493035277	SDL/CMakeFiles/SDL2-static.dir/src/joystick/hidapi/SDL_hidapijoystick.c.obj	c092ae5ad658888e
+325493	350297	7999484543323124	SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_windowsjoystick.c.obj	4ffde090c2ced1ad
+323983	350343	7999484529715239	SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_dinputjoystick.c.obj	8fdb675cbab328c6
+326536	351071	7999484556388568	SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_xinputjoystick.c.obj	32c705dbd38eccd3
+325082	351116	7999484535545225	SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_windows_gaming_input.c.obj	25dad9d25774f7bf
+324825	351803	7999484534385231	SDL/CMakeFiles/SDL2-static.dir/src/joystick/windows/SDL_rawinputjoystick.c.obj	5d3e3b0adea4a73
+351106	353579	7999484795693426	CMakeFiles/snake.dir/main.c.obj	99e2813e4043413a
+351445	354245	7999484801953484	CMakeFiles/snake.dir/game.c.obj	f0e8d2286e603962
+353784	356572	7999484824013388	CMakeFiles/snake.dir/map.c.obj	f1705c34db232017
+352013	359970	7999484806953473	CMakeFiles/snake.dir/engine.c.obj	1d5d9dd65c155aac
+344009	364301	7999484728053437	SDL/CMakeFiles/SDL2-static.dir/src/haptic/windows/SDL_dinputhaptic.c.obj	2400faa2a58bf7b0
+354330	366735	7999484827933419	SDL/CMakeFiles/SDL2main.dir/src/main/windows/SDL_windows_main.c.obj	297fe9d8c6f932f6
+350319	367280	7999484787813423	SDL/CMakeFiles/SDL2-static.dir/src/haptic/windows/SDL_windowshaptic.c.obj	a997c2b7a362395
+350604	368196	7999484794473405	SDL/CMakeFiles/SDL2-static.dir/src/haptic/windows/SDL_xinputhaptic.c.obj	c1ddb88e7f74240d
+366743	368980	7999484952063423	SDL/libSDL2main.a	a840c5bf1b2edd2d
+368201	369995	7999484966633394	SDL/libSDL2.a	cb6b6aa9580938b9
+369996	372053	7999484984593420	snake.exe	cbfe52fe283404dc
