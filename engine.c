@@ -8,23 +8,47 @@ void init_console()
     fflush(stdout);
 }
 
-void render_frame(Snake *snake, Point *food, int score)
+void render_frame(Snake *snake, Point *food, SpecialFood *s_food, int map[HEIGHT][WIDTH], int score)
 {
-    char buffer[(WIDTH + 1) * HEIGHT + 100];
+    char buffer[WIDTH * HEIGHT * 100];
     int pos = 0;
+
+    const char *head_color = "\033[1;32m";
+    const char *body_color = "\033[0;32m";
+
+    if (snake->ghost_steps > 0)
+    {
+        head_color = "\033[1;36m";
+        body_color = "\033[0;36m";
+    }
+    else if (snake->poison_timer > 0)
+    {
+        head_color = "\033[1;35m";
+        body_color = "\033[0;35m";
+    }
 
     for (int y = 0; y < HEIGHT; y++)
     {
         for (int x = 0; x < WIDTH; x++)
         {
-            if (x == 0 || x == WIDTH - 1 || y == 0 || y == HEIGHT - 1)
+            if (map[y][x] == 1)
             {
-                pos += sprintf(&buffer[pos], "#");
+                pos += sprintf(&buffer[pos], "\033[1;34m#\033[0m");
             }
             else if (x == food->x && y == food->y)
             {
-                pos += sprintf(&buffer[pos], "\033[1;31m*\033[0m");
+                pos += sprintf(&buffer[pos], "\033[1;31m■\033[0m");
             }
+            else if (s_food->active && x == s_food->pos.x && y == s_food->pos.y)
+            {
+                if (s_food->type == FOOD_GOLD)
+                    pos += sprintf(&buffer[pos], "\033[1;33m$\033[0m");
+                else if (s_food->type == FOOD_POISON)
+                    pos += sprintf(&buffer[pos], "\033[1;35mx\033[0m");
+                else if (s_food->type == FOOD_GHOST)
+                    pos += sprintf(&buffer[pos], "\033[1;36m#\033[0m");
+            }
+
             else
             {
                 int is_body = 0;
@@ -56,6 +80,14 @@ void render_frame(Snake *snake, Point *food, int score)
     }
 
     pos += sprintf(&buffer[pos], "\033[1;33mScore: %d\033[0m\n", score);
+    if (snake->ghost_steps > 0)
+        pos += sprintf(&buffer[pos], "\033[1;36m[GHOST: %d steps]\033[0m  ", snake->ghost_steps);
+    if (snake->poison_timer > 0)
+        pos += sprintf(&buffer[pos], "\033[1;35m[POISONED: %d tick]\033[0m  ", snake->poison_timer);
+    if (s_food->active && s_food->type == FOOD_GOLD)
+        pos += sprintf(&buffer[pos], "\033[1;33m[Gold disapear: %d]\033[0m", s_food->ttl);
+
+    buffer[pos++] = '\n';
     buffer[pos] = '\0';
 
     printf("\033[H");

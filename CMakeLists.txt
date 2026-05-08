@@ -8,6 +8,7 @@ set(SOURCES
     main.c
     game.c
     engine.c
+    map.c
 )
 
 add_executable(snake ${SOURCES})

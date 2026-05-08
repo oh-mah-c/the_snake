@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"E:/Github Projects/vector_image_render/build/cmake_install.cmake"
+		"E:/Github Projects/the_snake/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
